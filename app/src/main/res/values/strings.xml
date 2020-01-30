@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YourContactsApp</string>
+    <string name="ButonText">View Contact</string>
+    <string name="Conatact1">J. Collins</string>
+    <string name="Contact2">J. Eberly</string>
+    <string name="Des1">J. Collins, 123 Main st., 435-867-9998</string>
+    <string name="Des2">J. Eberly, 456 Hopper Ave., 555-567-8112</string>
+</resources>
